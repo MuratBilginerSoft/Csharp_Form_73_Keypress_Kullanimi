@@ -1,0 +1,27 @@
+C:\Users\murat\Desktop\ \6 C# 2013\KeyPress\KeyPress\bin\Debug\KeyPress.exe.config
+C:\Users\murat\Desktop\ \6 C# 2013\KeyPress\KeyPress\bin\Debug\KeyPress.exe
+C:\Users\murat\Desktop\ \6 C# 2013\KeyPress\KeyPress\bin\Debug\KeyPress.pdb
+C:\Users\murat\Desktop\ \6 C# 2013\KeyPress\KeyPress\obj\Debug\KeyPress.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \6 C# 2013\KeyPress\KeyPress\obj\Debug\KeyPress.Form1.resources
+C:\Users\murat\Desktop\ \6 C# 2013\KeyPress\KeyPress\obj\Debug\KeyPress.Properties.Resources.resources
+C:\Users\murat\Desktop\ \6 C# 2013\KeyPress\KeyPress\obj\Debug\KeyPress.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \6 C# 2013\KeyPress\KeyPress\obj\Debug\KeyPress.exe
+C:\Users\murat\Desktop\ \6 C# 2013\KeyPress\KeyPress\obj\Debug\KeyPress.pdb
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\KEYPRESS\KeyPress\bin\Debug\KeyPress.exe.config
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\KEYPRESS\KeyPress\obj\Debug\KeyPress.exe
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\KEYPRESS\KeyPress\obj\Debug\KeyPress.pdb
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\KEYPRESS\KeyPress\bin\Debug\KeyPress.exe
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\KEYPRESS\KeyPress\bin\Debug\KeyPress.pdb
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\KEYPRESS\KeyPress\obj\Debug\KeyPress.csprojResolveAssemblyReference.cache
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\KEYPRESS\KeyPress\obj\Debug\KeyPress.Form1.resources
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\KEYPRESS\KeyPress\obj\Debug\KeyPress.Properties.Resources.resources
+F:\x\3 NCFKR\2 BLOG\2 GÖRÜNÜM\11 YENİ PROJELER\KEYPRESS\KeyPress\obj\Debug\KeyPress.csproj.GenerateResource.Cache
+F:\04 - Yazılım\04 - Form Projeleri\39 Keypress Kullanımı\KeyPress\bin\Debug\KeyPress.exe.config
+F:\04 - Yazılım\04 - Form Projeleri\39 Keypress Kullanımı\KeyPress\obj\Debug\KeyPress.exe
+F:\04 - Yazılım\04 - Form Projeleri\39 Keypress Kullanımı\KeyPress\obj\Debug\KeyPress.pdb
+F:\04 - Yazılım\04 - Form Projeleri\39 Keypress Kullanımı\KeyPress\bin\Debug\KeyPress.exe
+F:\04 - Yazılım\04 - Form Projeleri\39 Keypress Kullanımı\KeyPress\bin\Debug\KeyPress.pdb
+F:\04 - Yazılım\04 - Form Projeleri\39 Keypress Kullanımı\KeyPress\obj\Debug\KeyPress.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\39 Keypress Kullanımı\KeyPress\obj\Debug\KeyPress.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\39 Keypress Kullanımı\KeyPress\obj\Debug\KeyPress.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\39 Keypress Kullanımı\KeyPress\obj\Debug\KeyPress.csproj.GenerateResource.Cache
